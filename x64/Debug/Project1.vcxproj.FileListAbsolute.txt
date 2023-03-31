@@ -1,0 +1,8 @@
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.DayFrame.resources
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.MainFrame.resources
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.ToDoCreate.resources
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.NewTimeBlock.resources
+C:\Users\Charl\Desktop\CS 3305\Visual Studio\Test\Project1\Project1\x64\Debug\Project1.ToDoList.resources
